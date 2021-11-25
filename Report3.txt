@@ -1,0 +1,5 @@
+The clients that have ordered more than 2 times and the value of the order was higher than 300
+
+client2
+client1
+c
